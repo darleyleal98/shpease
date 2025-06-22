@@ -13,7 +13,7 @@ Shopease é um aplicativo To Do List para organizar itens de compra.
 
 
 
-# Finance Buddy:
+# ShopEasy:
 
 
 <img
