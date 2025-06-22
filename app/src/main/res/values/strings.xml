@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopEase</string>
+    <string name="esse_campo_obrigat_rio">Esse campo é obrigatório</string>
+    <string name="adicionar_item">Adicionar item</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="digite_o_nome">Digite o nome</string>
+</resources>
